@@ -1,6 +1,6 @@
 # Hi there,
 
-# Hengameh Shahrooei
+## Hengameh Shahrooei
 
 📍 Vancouver, Canada  
 ✉️ shahrooei.hengameh@gmail.com  
