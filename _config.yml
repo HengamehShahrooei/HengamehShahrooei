@@ -12,7 +12,7 @@ site_theme               : ""
 title                    : "Hengameh's homepage"
 title_separator          : "-"
 name                     : "Hengameh Shahrooei"
-description              : ""
+description              : "Industrial Management graduate | Interested in AI, supply chain sustainability, and data-driven research"
 url                      : "https://hengamehshahrooei.github.io/HengamehShahrooei/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/HengamehShahrooei/HengamehShahrooei"
@@ -22,10 +22,10 @@ repository               : "https://github.com/HengamehShahrooei/HengamehShahroo
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_5980.c.JPG"
+  avatar           : ""
   name             : "Hengameh Shahrooei"
-  pronouns         : "she/her"  
-  bio              : "Industrial Management graduate | Interested in AI, supply chain sustainability, and data-driven research"
+  pronouns         : ""  
+  bio              : ""
   location         : "Vancouver, Canada"
   employer         : "University of Tehran"
   uri              : # URL
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
