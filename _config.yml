@@ -22,7 +22,7 @@ repository               : "https://github.com/HengamehShahrooei/HengamehShahroo
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/HengamehShahrooei/HengamehShahrooei/blob/master/images/IMG_5980.c.JPG"
   name             : "Hengameh Shahrooei"
   pronouns         : "she/her"  
   bio              : ""
