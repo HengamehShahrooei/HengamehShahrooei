@@ -12,7 +12,7 @@ site_theme               : ""
 title                    : "Hengameh's homepage"
 title_separator          : "-"
 name                     : "Hengameh Shahrooei"
-description              : "Industrial Management graduate | Interested in AI, supply chain sustainability, and data-driven research"
+description              : ""
 url                      : "https://hengamehshahrooei.github.io/HengamehShahrooei/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/HengamehShahrooei/HengamehShahrooei"
@@ -22,10 +22,10 @@ repository               : "https://github.com/HengamehShahrooei/HengamehShahroo
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/HengamehShahrooei/HengamehShahrooei/blob/8f3c84fc8a3c9b96e1a88aa446c2f8c66b570e8f/images/IMG_5980.c.JPG"
+  avatar           : "images/IMG_5980.c.JPG"
   name             : "Hengameh Shahrooei"
   pronouns         : ""  
-  bio              : ""
+  bio              : "Industrial Management graduate | Interested in AI, supply chain sustainability, and data-driven research"
   location         : "Vancouver, Canada"
   employer         : "University of Tehran"
   uri              : # URL
