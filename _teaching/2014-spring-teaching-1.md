@@ -19,3 +19,4 @@
 - Organized an academic seminar aimed at enhancing communication and negotiation skills among management students.
 - Delivered a talk on the role of negotiation and public speaking in the field of management.
 - Encouraged student participation through interactive sessions and practical examples.
+
