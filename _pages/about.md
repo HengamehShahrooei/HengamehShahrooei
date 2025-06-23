@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){:.align-right width="300px"}
+![Illustration of combining vision and language modalities](images/photo_5920381374521527544_x.jpg){:.align-right width="300px"}
 👩‍💻I’m a recent graduate in Industrial Management from the University of Tehran. 
 
 🔬My research interests are in using tools like AI, machine learning, blockchain, and digital twins to make supply chains more efficient, sustainable, and easier to manage in real life. 
