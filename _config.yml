@@ -22,10 +22,10 @@ repository               : "https://github.com/HengamehShahrooei/HengamehShahroo
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_5980.c.JPG"
+  avatar           : ""
   name             : "Hengameh Shahrooei"
   pronouns         : ""  
-  bio              : "Industrial Management graduate | Interested in AI, supply chain sustainability, and data-driven research"
+  bio              : "Industrial Management graduate"
   location         : "Vancouver, Canada"
   employer         : "University of Tehran"
   uri              : # URL
